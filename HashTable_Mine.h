@@ -10,7 +10,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// #todo: resizing
+// #todo: resizing and unit tests
 
 // hash item
 typedef struct
